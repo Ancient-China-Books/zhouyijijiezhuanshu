@@ -51,6 +51,12 @@ body {
 .fenduan {
   margin-bottom: 5%;
 }
+span.yinwen {
+  font-size: small;
+  color: #795548;
+  padding: 0 3px;
+  border-radius: 3px;
+}
 #text {
   text-align: justify;
   width: 100%;
