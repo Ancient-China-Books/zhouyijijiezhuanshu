@@ -1,0 +1,69 @@
+html {
+  font-size: 100%;
+  overflow-y: scroll;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+}
+body {
+  font-family: "Noto Serif TC Medium", FSung-2, serif;
+  letter-spacing: 1px;
+  font-size: 110%;
+  line-height: 1.7;
+  line-break: auto;
+  text-align: left;
+  writing-mode: horizontal-tb;
+  -webkit-writing-mode: horizontal-tb;
+  -epub-writing-mode: horizontal-tb;
+  -webkit-margin-start: 1.5em;
+  -webkit-margin-end: 0.8em;
+  -webkit-margin-before: 0.2em;
+  -webkit-margin-after: 0.2em;
+  -webkit-line-break: auto;
+}
+.em2 {
+  font-weight: normal;
+}
+.jiazhu {
+  color: #069;
+  font-weight: normal;
+  font-size: 85%;
+}
+.jianshu {
+  color: #069;
+  font-weight: normal;
+  font-size: 85%;
+}
+.jiaozhusup {
+  font-size: 12px;
+  color: #B9584E;
+  font-weight: bold;
+}
+.jiaozhusup::after {
+  content: "";
+  background-color: #629fd1;
+  color: white;
+  text-indent: 0;
+  margin: 0;
+}
+.section {
+  font-weight: bold;
+}
+.fenduan {
+  margin-bottom: 5%;
+}
+#text {
+  text-align: justify;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+@media screen and (max-device-width: 480px) {
+  #text {
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+    width: 87.36%;
+    padding-left: 1.82%;
+    padding-right: 1.82%;
+  }
+}
