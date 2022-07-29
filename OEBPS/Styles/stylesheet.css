@@ -49,7 +49,6 @@ body {
   font-weight: bold;
 }
 .fenduan {
-  margin-bottom: 5%;
 }
 span.yinwen {
   font-size: small;
@@ -72,6 +71,12 @@ span.yinwen {
     padding-left: 1.82%;
     padding-right: 1.82%;
   }
+}
+h1 {
+  font-size: x-large;
+  letter-spacing: 3px;
+  margin: 0;
+  padding: 0;
 }
 p:before{
   content: '';
