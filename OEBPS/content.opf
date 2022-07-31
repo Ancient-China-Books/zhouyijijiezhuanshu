@@ -3,7 +3,7 @@
   <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <dc:title>周易集解纂疏</dc:title>
     <dc:creator opf:role="aut" opf:file-as="李道平">李道平</dc:creator>
-    <dc:contributor opf:role="bkp">calibre (6.1.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:contributor opf:role="bkp">calibre (6.2.1) [https://calibre-ebook.com]</dc:contributor>
     <dc:publisher>中华书局</dc:publisher>
     <dc:identifier id="uuid_id" opf:scheme="uuid">bba97d0d-0709-45a9-9636-335a0a414beb</dc:identifier>
     <dc:date>1994-02-28T16:00:00+00:00</dc:date>
@@ -27,7 +27,7 @@
     <dc:subject>经典</dc:subject>
     <dc:subject>經學</dc:subject>
     <dc:language>zh-TW</dc:language>
-    <dc:identifier opf:scheme="calibre">361efe38-a2c6-47f8-980f-8fd4708f6a97</dc:identifier>
+    <dc:identifier opf:scheme="calibre">60a3978b-9161-4173-86fa-e57bd645f01f</dc:identifier>
     <dc:identifier opf:scheme="NEW_DOUBAN">1020740</dc:identifier>
     <dc:identifier opf:scheme="ISBN">9787101009330</dc:identifier>
     <meta content="2022-05-24T13:44:09.382584+00:00" name="calibre:timestamp"/>
@@ -120,16 +120,17 @@
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
     <item id="page_css" href="Styles/page_styles.css" media-type="text/css"/>
     <item id="css" href="Styles/stylesheet.css" media-type="text/css"/>
-    <item id="id78" href="Images/i1.jpg" media-type="image/jpeg"/>
-    <item id="id" href="Images/i2.jpg" media-type="image/jpeg"/>
-    <item id="id79" href="Images/i3.jpg" media-type="image/jpeg"/>
-    <item id="id76" href="Images/i4.jpg" media-type="image/jpeg"/>
-    <item id="id77" href="Images/i5.jpg" media-type="image/jpeg"/>
-    <item id="id80" href="Images/i6.jpg" media-type="image/jpeg"/>
-    <item id="id81" href="Images/i7.jpg" media-type="image/jpeg"/>
+    <item id="id85" href="Images/i1.jpg" media-type="image/jpeg"/>
+    <item id="id83" href="Images/i2.jpg" media-type="image/jpeg"/>
+    <item id="id86" href="Images/i3.jpg" media-type="image/jpeg"/>
+    <item id="id82" href="Images/i4.jpg" media-type="image/jpeg"/>
+    <item id="id84" href="Images/i5.jpg" media-type="image/jpeg"/>
+    <item id="id87" href="Images/i6.jpg" media-type="image/jpeg"/>
+    <item id="id88" href="Images/i7.jpg" media-type="image/jpeg"/>
     <item href="OEBPS/cover.jpg" id="cover" media-type="image/jpeg"/>
     <item id="fsung-2" href="Fonts/FSung-2.ttf" media-type="application/x-font-truetype"/>
     <item id="noto" href="Fonts/NotoSerifTC-Medium.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="main.js" href="Styles/main.js" media-type="application/javascript"/>
   </manifest>
   <spine page-progression-direction="ltr" toc="ncx">
     <itemref idref="id0"/>
