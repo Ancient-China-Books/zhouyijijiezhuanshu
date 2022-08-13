@@ -3,33 +3,19 @@
   <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <dc:title>周易集解纂疏</dc:title>
     <dc:creator opf:role="aut" opf:file-as="李道平">李道平</dc:creator>
-    <dc:contributor opf:role="bkp">calibre (6.2.1) [https://calibre-ebook.com]</dc:contributor>
-    <dc:publisher>中华书局</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (6.3.0) [https://calibre-ebook.com]</dc:contributor>
     <dc:identifier id="uEZ9xprrjv63XbqvdnwmL78" opf:scheme="uuid">uEZ9xprrjv63XbqvdnwmL78</dc:identifier>
-    <dc:date>1994-02-28T16:00:00+00:00</dc:date>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
     <dc:description>&lt;div&gt;
-&lt;p&gt;《十三经清人注疏:周易集解纂疏(繁体竖排版)》主要内容简介：周易集解纂疏十卷，清李道平着。道平字遵王，一字远山，号蒲眠居士，湖北安陆人。嘉庆戊寅《公元一八一八年》举人。二十余年，始终与修安陆县志。&lt;/p&gt;&lt;/div&gt;</dc:description>
+&lt;p&gt;《周易集解》乃唐李鼎祚所撰，爲唐朝後保存漢易的唯一文獻。書成後長期未得重視，直至清朝樸學興盛，始籍此書以考究漢易。初有惠士奇、惠棟父子，繼有張惠言。後李道平又在惠棟、張惠言的基礎上，取清周孝垓枕經樓本《周易集解》爲底本，，于《集解》全書之注，逐條疏通，成《周易集解纂疏》。潘雨廷謂「其間漢人之注約一千八百節，已爲漢易家所注意，此外近千節屬魏、晉至唐人之注，皆惠、張等所忽視者，亦爲疏通，基本能闡明注者之義。且所加百餘節案，及二百餘節愚案，欲使注者之義，以合諸易經十二篇之旨，理皆平穩，故此纂疏之成，不僅屬漢易，可由之而明唐李鼎祚之思想。」&lt;/p&gt;
+&lt;p&gt;基於「東里書齋」重製電子版。&lt;/p&gt;&lt;/div&gt;</dc:description>
     <dc:date opf:event="modification">2022-06-10</dc:date>
-    <dc:subject>周易</dc:subject>
-    <dc:subject>易学</dc:subject>
-    <dc:subject>潘雨廷</dc:subject>
-    <dc:subject>易</dc:subject>
-    <dc:subject>李道平</dc:subject>
-    <dc:subject>易研</dc:subject>
-    <dc:subject>论语</dc:subject>
-    <dc:subject>国学</dc:subject>
-    <dc:subject>经学</dc:subject>
-    <dc:subject>清人十三經註疏</dc:subject>
-    <dc:subject>刘宝楠</dc:subject>
     <dc:subject>古籍</dc:subject>
-    <dc:subject>哲学</dc:subject>
-    <dc:subject>中国哲学</dc:subject>
-    <dc:subject>经典</dc:subject>
-    <dc:subject>經學</dc:subject>
+    <dc:subject>經部</dc:subject>
+    <dc:subject>清人十三經註疏</dc:subject>
+    <dc:subject>周易</dc:subject>
     <dc:language>zh-TW</dc:language>
-    <dc:identifier opf:scheme="calibre">60a3978b-9161-4173-86fa-e57bd645f01f</dc:identifier>
-    <dc:identifier opf:scheme="NEW_DOUBAN">1020740</dc:identifier>
-    <dc:identifier opf:scheme="ISBN">9787101009330</dc:identifier>
+    <dc:identifier opf:scheme="calibre">31c17c66-3e90-4e4d-96ad-82969a040b35</dc:identifier>
     <meta content="2022-05-24T13:44:09.382584+00:00" name="calibre:timestamp"/>
     <meta content="周易集解纂疏" name="calibre:title_sort"/>
     <meta content="horizontal-lr" name="primary-writing-mode"/>
