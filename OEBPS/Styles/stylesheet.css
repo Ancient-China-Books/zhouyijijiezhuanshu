@@ -126,3 +126,16 @@ p:before{
 p:hover .gg-link {
   visibility: visible;
 }
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  padding: 0;
+}
+h2 {
+  font-size: large;
+  letter-spacing: 3px;
+  margin: 0;
+  padding: 0;
+}
