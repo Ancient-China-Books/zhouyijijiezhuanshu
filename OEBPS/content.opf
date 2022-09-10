@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
   <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <dc:title>周易集解纂疏</dc:title>
-    <dc:creator opf:role="aut" opf:file-as="李道平">李道平</dc:creator>
-    <dc:contributor opf:role="bkp">calibre (6.3.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:creator opf:role="aut" opf:file-as="清·李道平">清·李道平</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (6.4.0) [https://calibre-ebook.com]</dc:contributor>
     <dc:identifier id="uEZ9xprrjv63XbqvdnwmL78" opf:scheme="uuid">uEZ9xprrjv63XbqvdnwmL78</dc:identifier>
     <dc:date>0101-01-01T00:00:00+00:00</dc:date>
     <dc:description>&lt;div&gt;
@@ -15,11 +15,11 @@
     <dc:subject>清人十三經註疏</dc:subject>
     <dc:subject>周易</dc:subject>
     <dc:language>zh-TW</dc:language>
-    <dc:identifier opf:scheme="calibre">31c17c66-3e90-4e4d-96ad-82969a040b35</dc:identifier>
+    <dc:identifier opf:scheme="calibre">7f6dd2dc-0b6f-45e9-96ed-76e967f2434c</dc:identifier>
     <meta content="2022-05-24T13:44:09.382584+00:00" name="calibre:timestamp"/>
     <meta content="周易集解纂疏" name="calibre:title_sort"/>
     <meta content="horizontal-lr" name="primary-writing-mode"/>
-    <meta content="{&quot;李道平&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="{&quot;清·李道平&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
     <meta content="十三經清人注疏叢書" name="calibre:series"/>
     <meta content="1.0" name="calibre:series_index"/>
     <meta content="10.0" name="calibre:rating"/>
@@ -114,10 +114,10 @@
     <item id="id87" href="Images/i6.jpg" media-type="image/jpeg"/>
     <item id="id88" href="Images/i7.jpg" media-type="image/jpeg"/>
     <item href="OEBPS/cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item id="biaodian" href="Fonts/biaodian.otf" media-type="application/vnd.ms-opentype"/>
     <item id="fsung-2" href="Fonts/FSung-2.ttf" media-type="application/x-font-truetype"/>
     <item id="fsung-f" href="Fonts/FSung-F.ttf" media-type="application/x-font-truetype"/>
     <item id="noto-sc" href="Fonts/NotoSerifSC-Medium.otf" media-type="application/vnd.ms-opentype"/>
-    <item id="biaodian" href="Fonts/biaodian.otf" media-type="application/vnd.ms-opentype"/>
     <item id="main.js" href="Styles/main.js" media-type="application/javascript"/>
   </manifest>
   <spine page-progression-direction="ltr" toc="ncx">
