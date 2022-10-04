@@ -57,3 +57,17 @@ jobs:
          RCLONE_CONFIG_PASS: ${{ secrets.RCLONE_CONFIG_PASS }}
         with:
           args: copyto zhouyijijiezhuanshu-vst.epub onedrive:/古籍共享电子书计划/周易集解纂疏-豎排.epub
+      - name: Sync to Freemdict
+        uses: wei/rclone@v1
+        env:
+         RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
+         RCLONE_CONFIG_PASS: ${{ secrets.RCLONE_CONFIG_PASS }}
+        with:
+          args: copyto zhouyijijiezhuanshu.epub freemdict:/古籍共享电子书计划/周易集解纂疏.epub
+      - name: Sync vst to Freemdict
+        uses: wei/rclone@v1
+        env:
+         RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
+         RCLONE_CONFIG_PASS: ${{ secrets.RCLONE_CONFIG_PASS }}
+        with:
+          args: copyto zhouyijijiezhuanshu-vst.epub freemdict:/古籍共享电子书计划/周易集解纂疏-豎排.epub
